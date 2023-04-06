@@ -46,7 +46,7 @@ function App() {
       id="lastName"
       placeholder="Babbar"
       value={formData.lastName}
-      onChange={changeHandler}
+      onChange={changeHandle}
       className="outline"
     />
 
